@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "301984941391",
+    "firebase_url": "https://business-boomers-12822.firebaseio.com",
+    "project_id": "business-boomers-12822",
+    "storage_bucket": "business-boomers-12822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301984941391:android:47e3ff14b96103fb",
+        "android_client_info": {
+          "package_name": "com.example.omar.businessboomers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301984941391-hu04nr30jqdmnq9nqepjrtal0dk95pca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omar.businessboomers",
+            "certificate_hash": "a249a254ff35ddb55623a07abb41a3a3df6446a5"
+          }
+        },
+        {
+          "client_id": "301984941391-6k4p6tlnfoihahcd9og0lgdod7bcn562.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBINABkC_1fjFDrPUNloUNfUhg7qa-dnpw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301984941391-6k4p6tlnfoihahcd9og0lgdod7bcn562.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
